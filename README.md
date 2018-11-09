@@ -58,7 +58,7 @@ Example:
 > 
 > Specimen: [https://fonts.google.com/specimen/Raleway?selection.family=Raleway](https://fonts.google.com/specimen/Raleway?selection.family=Raleway)
 
-Font weights are specified in the HOLO Branding Guidelines.
+Font weights and further typographic instructions (alignments, etc.) are specified in the HOLO Branding Guidelines.
  
 
 ### HOLO Manual of Style
