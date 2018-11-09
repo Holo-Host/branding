@@ -42,12 +42,13 @@ A repository for information, tools, components, etc. for building Holo user int
 * TBD
 
 
-## Libraries
+## Code
 
-The goal is to have UI tools including:
+The goal is to have UI code for the following tools:
 
 * an empty 'scaffold' app framework
-* a library of reusable components
+* an empty 'scaffold' app framework which includes Holo UI components
+* a separate library of just the reusable Holo UI components themselves
 * etc.
 
 
