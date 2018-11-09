@@ -19,7 +19,8 @@ A repository for information, tools, components, etc. for building Holo user int
 
 #### Color
 
-**Section:** SOLIDCOLOR PALETTE (p. 13)
+##### **Section:** SOLID COLOR PALETTE (p. 13)
+
 > ![#00838D](https://placehold.it/15/00838D/000000?text=+) `#00838D `
 > 
 > ![#3A277A](https://placehold.it/15/3A277A/000000?text=+) `#3A277A `
@@ -31,7 +32,7 @@ A repository for information, tools, components, etc. for building Holo user int
 > ![#000000](https://placehold.it/15/000000/000000?text=+) `#000000 `
 > 
 
-**Section:** SHADES AND TINTS (p. 14)
+##### **Section:** SHADES AND TINTS (p. 14)
 
 > To add more variety shades and tints can be derived from the brand color palette.
 
