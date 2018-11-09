@@ -5,7 +5,7 @@ A repository for information, tools, components, etc. for building Holo user int
 
 ### HOLO Brand Guidelines
 
-* [HOLO_Brand_Guidelines.pdf](documents/HOLO_Brand_Guidelines.pdf)
+* [HOLO Brand Guidelines (pdf)](documents/HOLO_Brand_Guidelines.pdf)
 
 ### HOLO Manual of Style
 * TBD
