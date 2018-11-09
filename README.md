@@ -5,7 +5,7 @@ A repository for information, tools, components, etc. for building Holo user int
 
 ### HOLO Brand Guidelines
 
-**Note:**  Not all specifications in the HOLO Brand Guidelines apply to UI development.
+**Note:** Not all specifications in the HOLO Brand Guidelines apply to UI development.
 
 * [HOLO Brand Guidelines (pdf)](documents/HOLO_Brand_Guidelines.pdf)
 
@@ -31,9 +31,11 @@ A repository for information, tools, components, etc. for building Holo user int
 > ![#000000](https://placehold.it/15/000000/000000?text=+) `#000000 `
 > 
 
+**Section:** SHADES AND TINTS (p. 14)
 
+> To add more variety shades and tints can be derived from the brand color palette.
 
-    
+ 
 
 ### HOLO Manual of Style
 * TBD
