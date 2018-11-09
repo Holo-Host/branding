@@ -49,6 +49,7 @@ The HOLO font is
 * [Raleway](https://fonts.google.com/specimen/Raleway?selection.family=Raleway)
 * Sample: [https://fonts.google.com/specimen/Raleway?selection.family=Raleway](https://fonts.google.com/specimen/Raleway?selection.family=Raleway)
 
+<span style="font-family: 'Raleway', sans-serif;">Raleway</span>
  
 
 ### HOLO Manual of Style
