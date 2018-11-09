@@ -69,7 +69,24 @@ Font weights are specified in the HOLO Branding Guidelines.
 
 ## Code
 
-The goal is to have UI code for the following tools:
+This section is for actual code and code libraries relevant to Holo UI development.
+
+### Current Tools
+
+#### External
+
+The current primary external tools are:
+
+* React
+* Redux
+* Material UI
+* Storybook
+
+Additional packages and libraries support the primary tools in various ways.
+
+#### Internal 
+
+The current primary internal tools are (The goal is to have UI code for the following tools):
 
 * an empty 'scaffold' app framework
 * an empty 'scaffold' app framework which includes Holo UI components
