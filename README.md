@@ -9,6 +9,15 @@ A repository for information, tools, components, etc. for building Holo user int
 
 * [HOLO Brand Guidelines (pdf)](documents/HOLO_Brand_Guidelines.pdf)
 
+Key Points:
+
+Section: **LOGO  APPLICATION  DON’TS** (p. 11)
+> * DO  NOT  DISTORT
+> * DO  NOT  ALTER  THE  LOGO  SHAPE
+> * DO  NOT  USE  UNSPECIFIED  COLORS
+> * ENSURE  LOGO  FIDELITY
+
+
 ### HOLO Manual of Style
 * TBD
 
