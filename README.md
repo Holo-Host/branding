@@ -11,9 +11,18 @@ A repository for information, tools, components, etc. for building Holo user int
 
 The following sections are a distillation and summary of some key points to consider.  This is not exhaustive.  Be sure to get familiar with the full HOLO Branding Guidelines as well.
 
-#### Logo
+#### Logo and Usage
 
-**Section:** LOGO APPLICATION DON’TS (p. 11)
+##### **Section:** PRIMARY LOGO (p. 7)
+
+Several logos are included in the `images/official_logos/` folder.
+
+Example:
+
+![Holo Primary Logo Black](images/official_logos/Holo_Primary_Logo_Black.png)
+
+
+##### **Section:** LOGO APPLICATION DON’TS (p. 11)
 > * DO NOT DISTORT
 > * DO NOT ALTER THE LOGO SHAPE
 > * DO NOT USE UNSPECIFIED COLORS
@@ -33,7 +42,7 @@ The following sections are a distillation and summary of some key points to cons
 > ![#4E5568](https://placehold.it/15/4E5568/000000?text=+) `#4E5568 `
 > 
 > ![#000000](https://placehold.it/15/000000/000000?text=+) `#000000 `
-> 
+
 
 ##### **Section:** SHADES AND TINTS (p. 14)
 
