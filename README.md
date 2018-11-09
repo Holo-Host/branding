@@ -9,6 +9,8 @@ A repository for information, tools, components, etc. for building Holo user int
 
 * [HOLO Brand Guidelines (pdf)](documents/HOLO_Brand_Guidelines.pdf)
 
+The following sections are a distillation and summary of some key points to consider.  This is not exhaustive.  Be sure to get familiar with the full HOLO Branding Guidelines as well.
+
 #### Logo
 
 **Section:** LOGO APPLICATION DON’TS (p. 11)
@@ -16,6 +18,7 @@ A repository for information, tools, components, etc. for building Holo user int
 > * DO NOT ALTER THE LOGO SHAPE
 > * DO NOT USE UNSPECIFIED COLORS
 > * ENSURE LOGO FIDELITY
+
 
 #### Color
 
@@ -35,6 +38,16 @@ A repository for information, tools, components, etc. for building Holo user int
 ##### **Section:** SHADES AND TINTS (p. 14)
 
 > To add more variety shades and tints can be derived from the brand color palette.
+
+
+#### Typography
+
+##### **Section:** BRAND SPECIFIC TYPOGRAPHIC FAMILY (p. 17)
+
+The HOLO font is 
+
+* [Raleway](https://fonts.google.com/specimen/Raleway?selection.family=Raleway)
+* Sample: [https://fonts.google.com/specimen/Raleway?selection.family=Raleway](https://fonts.google.com/specimen/Raleway?selection.family=Raleway)
 
  
 
