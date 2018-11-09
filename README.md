@@ -19,7 +19,7 @@ Several logos are included in the `images/official_logos/` folder.
 
 Example:
 
-<img src="images/official_logos/Holo_Primary_Logo_Black.png" alt="Holo Primary Logo Black" style="width: 300px;"/>
+<img src="images/official_logos/Holo_Primary_Logo_Black.png" alt="Holo Primary Logo Black" width="300px"/>
 
 ##### **Section:** LOGO APPLICATION DON’TS (p. 11)
 > * DO NOT DISTORT
