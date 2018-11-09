@@ -44,15 +44,16 @@ The following sections are a distillation and summary of some key points to cons
 
 ##### **Section:** BRAND SPECIFIC TYPOGRAPHIC FAMILY (p. 17)
 
-The HOLO font is 
+> The HOLO font is 
+> 
+> ![font/Raleway-200.v12.png](font/Raleway-200.v12.png)
+> 
+> Sample: [https://fonts.google.com/specimen/Raleway?selection.family=Raleway](https://fonts.google.com/specimen/Raleway?selection.family=Raleway)
 
-* [Raleway](https://fonts.google.com/specimen/Raleway?selection.family=Raleway)
-* Sample: [https://fonts.google.com/specimen/Raleway?selection.family=Raleway](https://fonts.google.com/specimen/Raleway?selection.family=Raleway)
-
-<span style="font-family: 'Raleway', sans-serif;">Raleway</span>
  
 
 ### HOLO Manual of Style
+
 * TBD
 
 
