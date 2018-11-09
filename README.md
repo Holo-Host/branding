@@ -59,6 +59,7 @@ Example:
 > 
 > Sample: [https://fonts.google.com/specimen/Raleway?selection.family=Raleway](https://fonts.google.com/specimen/Raleway?selection.family=Raleway)
 
+Font weights are specified in the HOLO Branding Guidelines.
  
 
 ### HOLO Manual of Style
