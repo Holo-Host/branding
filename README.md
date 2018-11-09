@@ -56,7 +56,7 @@ Example:
 > 
 > ![font/Raleway-200.v12.png](font/Raleway-200.v12.png)
 > 
-> Sample: [https://fonts.google.com/specimen/Raleway?selection.family=Raleway](https://fonts.google.com/specimen/Raleway?selection.family=Raleway)
+> Specimen: [https://fonts.google.com/specimen/Raleway?selection.family=Raleway](https://fonts.google.com/specimen/Raleway?selection.family=Raleway)
 
 Font weights are specified in the HOLO Branding Guidelines.
  
