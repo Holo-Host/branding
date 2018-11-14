@@ -104,7 +104,7 @@ The current primary external tools are:
 * Redux
   * https://redux.js.org
 * Material UI
-  * material-ui https://material-ui.com
+  * material-ui (for react) https://material-ui.com
     * implements Google Material design https://material.io/design/
 * Storybook
   * https://storybook.js.org
