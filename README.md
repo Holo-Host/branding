@@ -72,6 +72,21 @@ This section is for actual code and code libraries relevant to Holo UI developme
 
 ### Current Tools
 
+#### Internal 
+
+The current primary internal tools are (The goal is to have UI code for the following tools):
+
+##### Submodules
+
+The following are submodules of this git repository
+
+1. an empty 'scaffold' app framework
+  * https://github.com/Holo-Host/hc-react-redux-framework
+2. a separate library of just the reusable Holo UI components themselves
+  * goes here
+3. the 1) empty 'scaffold' app framework from above, but that also includes the 2) Holo UI components library from above
+  * goes here
+
 #### External
 
 The current primary external tools are:
@@ -82,15 +97,5 @@ The current primary external tools are:
 * Storybook
 
 Additional packages and libraries support the primary tools in various ways.
-
-#### Internal 
-
-The current primary internal tools are (The goal is to have UI code for the following tools):
-
-* an empty 'scaffold' app framework
-* an empty 'scaffold' app framework which includes Holo UI components
-* a separate library of just the reusable Holo UI components themselves
-* etc.
-
 
 
