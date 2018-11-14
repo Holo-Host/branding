@@ -91,6 +91,7 @@ The following are some key things to remember about using git repositories with 
 
 1. When you clone a repository with submodules use `git clone --recursive <project url>`
 2. You can refresh the submodule at any time by going into the submodule folder and running `git submodule update --init --recursive`
+3. When pushing to the a parent repository (like this one), be sure to force git to check that all changes to submodules have already been committed and pushed to their respective repositories first by running `git push --recurse-submodules=on-demand`
 3. For reference see: [https://git-scm.com/book/en/v2/Git-Tools-Submodules](https://git-scm.com/book/en/v2/Git-Tools-Submodules)
 
 
