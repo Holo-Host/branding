@@ -1,0 +1,3 @@
+[submodule "framework/hc-react-redux-framework"]
+	path = framework/hc-react-redux-framework
+	url = https://github.com/Holo-Host/hc-react-redux-framework
