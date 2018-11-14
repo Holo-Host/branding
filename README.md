@@ -76,7 +76,12 @@ This section is for actual code and code libraries relevant to Holo UI developme
 
 The current primary internal tools are (The goal is to have UI code for the following tools):
 
-##### Submodules
+##### UI Look-and-Feel & Functionality
+
+* **CSS**: Holo UI development will be able to draw on a library of **CSS** standards for a consistent look-and-feel across applications.
+* **UX**: Holo UI development will be able to draw on documentation for standardized functionality (accordions, buttons, etc.) for a consistent **UX** experience across applications.
+
+##### Git Submodules
 
 The following are submodules of this git repository
 
