@@ -100,9 +100,14 @@ The following are some key things to remember about using git repositories with 
 The current primary external tools are:
 
 * React
+  * https://reactjs.org
 * Redux
+  * https://redux.js.org
 * Material UI
+  * material-ui https://material-ui.com
+    * implements Google Material design https://material.io/design/
 * Storybook
+  * https://storybook.js.org
 
 Additional packages and libraries support the primary tools in various ways.
 
