@@ -85,14 +85,12 @@ The current primary internal tools are (The goal is to have UI code for the foll
 
 The following are submodules of this git repository
 
-1. an empty 'scaffold' app framework
+1. a separate library of just the reusable Holo UI components themselves
+  * goes here
+1. a 'scaffold' app framework that also includes the Holo UI components library from above
   * [https://github.com/Holo-Host/hc-react-redux-framework](https://github.com/Holo-Host/hc-react-redux-framework)
-2. a separate library of just the reusable Holo UI components themselves
-  * goes here
-3. the 1) empty 'scaffold' app framework from above, but that also includes the 2) Holo UI components library from above
-  * goes here
- 
-The following are some key things to remember about using git repositories with submodules:
+
+**NOTE:** The following are some key things to remember about using git repositories with submodules:
 
 1. When you clone a repository with submodules use `git clone --recursive <project url>`
 2. You can refresh the submodule at any time by going into the submodule folder and running `git submodule update --init --recursive`
