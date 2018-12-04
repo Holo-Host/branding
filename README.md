@@ -86,7 +86,7 @@ The current primary internal tools are (The goal is to have UI code for the foll
 The following are submodules of this git repository
 
 1. a separate library of just the reusable Holo UI components themselves
-  * goes here
+  * will go here, but hasn't been isolated from the React scaffold yet.
 1. a 'scaffold' app framework that also includes the Holo UI components library from above
   * [https://github.com/Holo-Host/hc-react-redux-framework](https://github.com/Holo-Host/hc-react-redux-framework)
 
